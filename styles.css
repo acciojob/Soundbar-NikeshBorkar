@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.btn, .stop {
+    padding: 9px;
+    margin: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
